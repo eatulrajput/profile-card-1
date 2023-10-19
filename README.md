@@ -1,6 +1,6 @@
 # Profile Card Website
 
-![Profile Card](/profile-card-1/design-screenshot.png)
+![Profile Card](/profile-card-1/assets/Images/design-screenshot.png)
 
 ## Table of Contents
 

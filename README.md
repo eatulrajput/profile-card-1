@@ -26,7 +26,7 @@ This website is a simple profile card that displays key information about a pers
 
 ## Demo
 
-You can see a live demo of the website [here](https://eatulrajput.github.io/).
+You can see a live demo of the website [here](https://eatulrajput.github.io/profile-card-1/).
 
 ## Usage
 

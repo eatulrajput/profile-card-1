@@ -32,7 +32,7 @@ You can see a live demo of the website [here](https://eatulrajput.github.io/prof
 
 To use this profile card template, follow these steps:
 
-1. Clone this repository to your local machine:[here](https://github.com/eatulrajput/profile-card-1.git).
+1. Clone this repository to your local machine: [here](https://github.com/eatulrajput/profile-card-1.git).
 
 
 2. Edit the HTML and CSS files to personalize the content and style to your preferences. You can change the profile photo, workplace, education, and social media links in the HTML file.

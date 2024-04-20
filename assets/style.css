@@ -10,8 +10,10 @@
 body {
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
     font-family: "Nunito", sans-serif;
-    background: url('/assets/Images/john-towner-JgOeRuGD_Y4-unsplash.jpg');
+    background: url('/assets/Images/background.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -42,6 +44,12 @@ body {
     width: 300px;
     margin: 20px;
     border-radius: 50%;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+}
+
+.card img:hover{
+    transform: scale(1.2);
 }
 
 .card h1 {
@@ -65,10 +73,18 @@ body {
     color: white;
 }
 
+.footer{
+    position: fixed;
+    bottom:0;
+    backdrop-filter: blur(50px);
+    width: 100%;
+    background-color: rgba(25, 29, 49, 0.475);
+    max-height: 18vh;
+}
+
 .footer p{
     margin: 40px;
     color: grey;
-    font-size: 1.2rem;
 }
 
 .footer a{

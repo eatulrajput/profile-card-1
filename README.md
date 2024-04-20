@@ -1,6 +1,6 @@
 # Profile Card Website
 
-![Profile Card](/profile-card-1/assets/Images/design-screenshot.png)
+![Profile Card](https://github.com/eatulrajput/profile-card-1/blob/main/p1.png)
 
 ## Table of Contents
 
